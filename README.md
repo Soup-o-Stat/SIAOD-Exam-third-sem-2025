@@ -16,3 +16,5 @@
 ### [II Анализ вычислительной сложности алгоритмов](https://github.com/Soup-o-Stat/SIAOD-Exam/blob/main/topic_2.md)
 
 ### [III Рекурсивные алгоритмы](https://github.com/Soup-o-Stat/SIAOD-Exam/blob/main/topic_3.md)
+
+### [IV Простые алгоритмы сортировки](https://github.com/Soup-o-Stat/SIAOD-Exam/blob/main/topic_4.md)
